@@ -1,0 +1,31 @@
+
+#include<stdio.h>
+
+int main(){
+
+	
+
+	char i;
+
+	
+
+	printf("Enter your wish:/n");
+
+	for(i = 'a'; i <='z'; i++){
+
+	    printf("%c", i);
+
+	}
+
+	Printf("your out put/n");
+
+	for(i = 'A'; i <='Z'; i++){
+
+	    printf("%c", i);
+
+	}
+
+	return(0);
+
+}
+
